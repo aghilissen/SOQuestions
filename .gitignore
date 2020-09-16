@@ -44,3 +44,12 @@ ipython_config.py
 .history
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,visualstudiocode,archlinuxpackages
+
+# Created by https://www.toptal.com/developers/gitignore/api/libreoffice
+# Edit at https://www.toptal.com/developers/gitignore?templates=libreoffice
+
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
+# End of https://www.toptal.com/developers/gitignore/api/libreoffice
